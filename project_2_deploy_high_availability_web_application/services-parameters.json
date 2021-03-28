@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityNDProject2DeployHAWebApp"
+  },
+  {
+    "ParameterKey": "WebServerAMIImageID",
+    "ParameterValue": "ami-02701bcdc5509e57b"
+  },
+  {
+    "ParameterKey": "WebServerInstanceType",
+    "ParameterValue": "t3.medium"
+  },
+  {
+    "ParameterKey": "WebServerVolumeSize",
+    "ParameterValue": "10"
+  },
+  {
+    "ParameterKey": "DesiredNumberOfInstances",
+    "ParameterValue": "4"
+  }
+]
